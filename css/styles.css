@@ -99,6 +99,7 @@ a:hover {
 
 .skill-row {
   margin: 100px auto;
+  padding: 20px;
   text-align: left;
   width: 50%;
 }
@@ -106,13 +107,13 @@ a:hover {
 .skill-img{
   float: left;
   margin-right: 30px;
-  width: 25%;
+  width: 20%;
 }
 
 .skill-img-right{
   float: right;
   margin-left: 30px;
-  width: 25%;
+  width: 20%;
 }
 
 .copyright {
